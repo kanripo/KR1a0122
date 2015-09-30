@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 田間易學
-#+DATE: 2015-09-23 09:35:25
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 21:58:47.930320
+#+PROPERTY: ID KR1a0122
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1a0122_WYG_005-1a>¶
 欽定四庫全書¶
 　田間易學卷三¶
@@ -1352,4 +1354,3 @@
 　(為作/也)¶
 　¶
 　田間易學卷三¶
-

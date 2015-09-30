@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 田間易學
-#+DATE: 2015-09-23 09:35:25
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 21:58:48.115538
+#+PROPERTY: ID KR1a0122
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1a0122_WYG_011-1a>¶
 欽定四庫全書¶
 　田間易學卷九¶
@@ -398,4 +400,3 @@
 　¶
 　¶
 　田間易學卷九¶
-
